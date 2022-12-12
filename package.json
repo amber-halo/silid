@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ranchTrash/silid#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "electron": "^8.1.1"
